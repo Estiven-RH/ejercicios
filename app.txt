@@ -1,2 +1,6 @@
 Versión 1 del proyecto
+<<<<<<< HEAD
 Cambio diferente desde master
+=======
+Cambio desde la rama nueva-funcion
+>>>>>>> nueva-funcion
